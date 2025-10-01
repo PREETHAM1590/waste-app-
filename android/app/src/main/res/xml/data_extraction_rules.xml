@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+      Define any rules for data extraction here.
+      If you don’t need custom rules, an empty <data-extraction-rules> is valid.
+    -->
+</data-extraction-rules>

@@ -1,0 +1,31 @@
+{
+  "mcpServers": {
+    "TestSprite": {
+      "autoApprove": [
+        "testsprite_bootstrap_tests",
+        "testsprite_generate_code_summary",
+        "testsprite_generate_frontend_test_plan",
+        "testsprite_generate_standardized_prd",
+        "testsprite_generate_backend_test_plan",
+        "testsprite_generate_code_and_execute"
+      ],
+      "timeout": 60,
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@testsprite/testsprite-mcp@latest"
+      ],
+      "env": {
+        "API_KEY": "sk-user-Vr3C0b-_Bey1fY760tnhssQX97rHeZnohYd1uWXdr8Fy1bkCatpu66-cGLHKiEJHLraI-1eCji1DhDoMLUA4eyOeLoNldvcxZSKv-j9loxxov3uuW-yBqfOceWglaCqs0KI"
+      },
+      "alwaysAllow": [
+        "testsprite_bootstrap_tests",
+        "testsprite_generate_code_summary",
+        "testsprite_generate_frontend_test_plan",
+        "testsprite_generate_standardized_prd",
+        "testsprite_generate_backend_test_plan",
+        "testsprite_generate_code_and_execute"
+      ]
+    }
+  }
+}

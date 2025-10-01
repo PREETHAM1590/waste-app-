@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+      Define backup include/exclude rules.
+      An empty <full-backup-content> is valid if no custom backup rules are needed.
+    -->
+</full-backup-content>
